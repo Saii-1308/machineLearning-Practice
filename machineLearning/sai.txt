@@ -1,0 +1,25 @@
+Schedule learning time
+Learning a little each day adds up. Research shows that students who make learning a habit are more likely to reach their goals. Set time aside to learn and get reminders using your learning scheduler.
+Master the theory, practice,and math behind Data Science,Machine Learning,Deep Learning,NLP with end to end projects
+Rating: 4.6 out of 5
+4.6
+14,807 ratings
+87,796
+Students
+99 hours
+Total
+Last updated June 2025
+English
+English [CC], Arabic [Auto]
+, 
+What you'll learn
+Master foundational and advanced Machine Learning and NLP concepts.
+Apply theoretical and practical knowledge to real-world projects using Machine learning,NLP And MLOPS
+Understand and implement mathematical principles behind ML algorithms.
+Develop and optimize ML models using industry-standard tools and techniques.
+Understand The Core intuition of Deep Learning such as optimizers,loss functions,neural networks and cnn
+I am the Ex Co-founder and Chief AI Engineer of iNeuron and my experience is pioneering in machine learning,
+ deep learning, and computer vision,Generative AI,an educator, and a mentor, with over 15 years' experience in the industry. 
+ These are my Udemy Courses where I explain various topics on machine learning, deep learning, and AI with many real-world problem scenarios.
+  I have delivered over 30+ tech talks on data science, machine learning, and AI at various meet-ups, technical institutions, and community-arranged forums. 
+  My main aim is to make everyone familiar of ML and AI.

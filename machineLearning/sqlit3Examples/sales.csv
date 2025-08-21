@@ -1,0 +1,21 @@
+Date,InvoiceID,CustomerName,Product,Category,Quantity,UnitPrice,Total,PaymentMethod,Region
+2023-01-01,INV001,John Doe,Laptop,Electronics,1,55000,55000,Credit Card,North
+2023-01-02,INV002,Jane Smith,Smartphone,Electronics,2,20000,40000,UPI,West
+2023-01-03,INV003,Tom Hanks,Headphones,Electronics,3,1500,4500,Cash,South
+2023-01-04,INV004,Lisa Ray,Desk,Furniture,1,7000,7000,Net Banking,East
+2023-01-05,INV005,Amit Kumar,Chair,Furniture,4,1500,6000,UPI,North
+2023-01-06,INV006,Sara Ali,Tablet,Electronics,1,25000,25000,Credit Card,West
+2023-01-07,INV007,Rajesh Khanna,Monitor,Electronics,2,8000,16000,Cash,South
+2023-01-08,INV008,Anjali Mehta,Notebook,Stationery,10,50,500,UPI,East
+2023-01-09,INV009,Neha Sharma,Pencil,Stationery,20,5,100,Cash,North
+2023-01-10,INV010,David Miller,Keyboard,Electronics,1,1200,1200,Credit Card,West
+2023-01-11,INV011,Suresh Rana,Mouse,Electronics,2,600,1200,UPI,South
+2023-01-12,INV012,Pooja Patel,Printer,Electronics,1,9000,9000,Net Banking,East
+2023-01-13,INV013,Ritika Verma,Cabinet,Furniture,1,4500,4500,Credit Card,North
+2023-01-14,INV014,Nikhil Shah,Laptop,Electronics,1,58000,58000,Cash,West
+2023-01-15,INV015,Aarav Singh,Smartphone,Electronics,2,22000,44000,UPI,South
+2023-01-16,INV016,Kajal Desai,Pen,Stationery,50,10,500,Credit Card,East
+2023-01-17,INV017,Mehul Thakkar,Desk,Furniture,1,7500,7500,Net Banking,North
+2023-01-18,INV018,Raj Malhotra,Router,Electronics,1,3000,3000,Cash,West
+2023-01-19,INV019,Sneha Reddy,Books,Stationery,5,200,1000,UPI,South
+2023-01-20,INV020,Abhishek Das,Chair,Furniture,2,1800,3600,Net Banking,East

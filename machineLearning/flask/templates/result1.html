@@ -1,0 +1,20 @@
+{{}} expression to print output in html
+{% %}condition expression
+{# #} comments
+
+<html>
+    <h2>
+        final result
+    </h2>
+    <body>
+        <table border=2>
+            {% for key,value in result.items() %}
+            <tr>
+                {# this is my comment section #}
+                <th>{{ key }}</th>
+                <th>{{ value }}</th>
+            </tr>
+            {% endfor %}
+        </table>
+    </body>
+</html>

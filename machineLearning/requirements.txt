@@ -1,0 +1,17 @@
+scikit-learn
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+opencv
+yolo
+beautifulsoup4
+html5lib
+lxml
+openpyxl
+matplotlib
+flask
+sqlit3
+streamlit
+sklearn-learn
